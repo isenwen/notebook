@@ -9,4 +9,4 @@
 * 😪👀😎😟😤💪💪💪💻🌕🌗🌑🌞😪😴
 
 [开始阅读](README.md)
-[我要开始装逼了](https://github.com/isenwen)
+[我要开始装逼了](https://github.com/isenwen/notebook/tree/main/docs#readme)

@@ -21,5 +21,3 @@
 * [DataBase](https://ashiamd.github.io/docsify-notes/#/study/DataBase/README.md)
 
 + [Docker](https://ashiamd.github.io/docsify-notes/#/study/Docker/README.md)
-
-  
