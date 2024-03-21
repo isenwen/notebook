@@ -1,6 +1,4 @@
 * 导读
-    * [**LeetCode**](/study/LeetCode_Study/README)
-    * [**Java**](/study/Java/README)
     * [**Python**](/study/Python/README)
     * [**Scala**](/study/Scala/README.md)
     * [**BigData**](/study/BigData/README.md)
@@ -14,7 +12,6 @@
     * [**负载均衡-代理**](/study/负载均衡-代理/README)
     * [**DataBase**](/study/DataBase/README)
     * [**Docker**](/study/Docker/README)
-
     
 * 暂无更多...
 
