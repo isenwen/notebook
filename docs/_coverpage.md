@@ -12,5 +12,5 @@
 
   
 
-[开始装备](README.md)
+[开始装逼](README.md)
 [我的GitHub](https://github.com/isenwen/notebook)
